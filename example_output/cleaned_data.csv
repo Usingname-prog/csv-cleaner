@@ -1,0 +1,31 @@
+order_id,order_date,customer_name,email,country,category,product,quantity,unit_price,discount,status,payment_method
+1001.0,2025-01-03,Anna Smith,anna.smith@email.com,Germany,Electronics,Keyboard,2.0,49.99,0.1,completed,card
+1002.0,2025-01-03,Mark Brown,mark.brown@email.com,germany,Home,Desk Lamp,1.0,24.5,,Complete,PayPal
+1003.0,2025-01-04,Sofia Rossi,sofia.rossi@email.com,Italy,Office,Notebook Pack,5.0,3.99,0.0,completed,card
+1004.0,2025-01-05,Ivan Petrov,ivan.petrov@email.com,Poland,Electronics,Mouse,3.0,18.9,0.05,COMPLETED,card
+1005.0,2025-01-07,Lina Weber,lina.weber@email.com,Germany,Home,Coffee Mug,4.0,7.5,0.0,Cancelled,bank transfer
+1006.0,2025-01-09,Tom Green,tom.green@email.com,France,Office,Pen Set,10.0,2.49,0.15,completed,card
+1007.0,2025-01-10,Marta Nowak,marta.nowak@email.com,Poland,Electronics,USB-C Cable,6.0,8.99,,Refunded,paypal
+1008.0,2025-01-12,James Lee,james.lee@email.com,Germany,Office,Folder,12.0,1.99,0.0,completed,card
+1009.0,2025-01-14,Nina Keller,nina.keller@email.com,Germany,Home,Chair Cushion,2.0,15.99,0.1,completed,card
+1010.0,2025-01-16,Omar Khan,omar.khan@email,France,Electronics,Webcam,1.0,69.0,0.0,completed,card
+1011.0,2025-01-18,Emma Wilson,emma.wilson@email.com,UK,Office,Printer Paper,,6.99,0.0,completed,card
+1012.0,2025-01-20,Max Muller,max.muller@email.com,Germany,Electronics,Monitor,1.0,189.99,0.05,completed,bank transfer
+1013.0,,Olga Sokolova,olga.sokolova@email.com,Germany,Home,Plant Pot,2.0,11.5,0.0,completed,card
+1014.0,2025-01-22,Pierre Martin,pierre.martin@email.com,France,Office,Whiteboard,-1.0,45.0,0.0,completed,card
+1015.0,2025-01-23,Laura Novak,laura.novak@email.com,Czech Republic,Electronics,Laptop Stand,2.0,32.0,0.2,completed,paypal
+1016.0,2025-02-01,David Stone,david.stone@email.com,UK,Home,Desk Organizer,3.0,12.75,0.0,Completed,card
+1017.0,2025-02-03,Sara Kim,sara.kim@email.com,Germany,Electronics,Headphones,1.0,79.99,0.1,completed,card
+1018.0,2025-02-05,Jonas Bauer,jonas.bauer@email.com,Germany,Office,Stapler,2.0,9.49,0.0,completed,paypal
+1019.0,2025-02-07,Mia Clark,mia.clark@email.com,Italy,Home,Blanket,1.0,39.9,0.05,completed,card
+1020.0,2025-02-08,Alex Ford,alex.ford@email.com,France,Electronics,Portable SSD,1.0,119.0,0.0,cancelled,card
+1021.0,2025-02-10,Kate Adams,kate.adams@email.com,Germany,Office,Calendar,3.0,4.99,0.0,completed,card
+1022.0,2025-02-12,Noah Becker,noah.becker@email.com,Germany,Electronics,Bluetooth Speaker,2.0,54.99,0.15,completed,paypal
+1023.0,2025-02-14,Elena Garcia,elena.garcia@email.com,Spain,Home,Table Cloth,2.0,19.99,0.0,completed,card
+1024.0,2025-02-16,Lucas Meyer,lucas.meyer@email.com,Germany,Office,Desk Mat,1.0,22.5,0.05,completed,bank transfer
+1025.0,2025-02-18,Fatima Ali,fatima.ali@email.com,France,Electronics,Phone Charger,4.0,13.99,0.0,completed,card
+1026.0,2025-02-20,Daniel White,daniel.white@email.com,UK,Home,LED Bulb Pack,2.0,16.5,0.1,refunded,paypal
+1027.0,2025-02-22,Aisha Khan,aisha.khan@email.com,Germany,Office,Sticky Notes,8.0,2.25,0.0,completed,card
+1028.0,2025-02-24,Robert King,robert.king@email.com,Italy,Electronics,HDMI Cable,5.0,6.99,0.0,completed,card
+1029.0,2025-02-26,Maria Silva,maria.silva@email.com,Portugal,Home,Storage Box,3.0,14.99,0.05,completed,card
+1030.0,2025-02-28,Ben Taylor,ben.taylor@email.com,UK,Office,Binder Clips,6.0,1.5,0.0,completed,card
