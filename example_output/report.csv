@@ -1,0 +1,59 @@
+metric,value
+original_rows,31
+original_columns,12
+empty_rows_removed,0
+duplicate_rows_removed,1
+cleaned_rows,30
+cleaned_columns,12
+total_missing_cells,4
+detected_date_columns,order_date
+detected_numeric_columns,"order_id, quantity, unit_price, discount"
+detected_category_columns,"customer_name, country, category, product, status, payment_method"
+missing_values__order_id,0
+missing_values__order_date,1
+missing_values__customer_name,0
+missing_values__email,0
+missing_values__country,0
+missing_values__category,0
+missing_values__product,0
+missing_values__quantity,1
+missing_values__unit_price,0
+missing_values__discount,2
+missing_values__status,0
+missing_values__payment_method,0
+sum__order_id,30465.0
+average__order_id,1015.5
+min__order_id,1001.0
+max__order_id,1030.0
+sum__quantity,94.0
+average__quantity,3.24
+min__quantity,-1.0
+max__quantity,12.0
+sum__unit_price,908.64
+average__unit_price,30.29
+min__unit_price,1.5
+max__unit_price,189.99
+sum__discount,1.15
+average__discount,0.04
+min__discount,0.0
+max__discount,0.2
+first_date__order_date,2025-01-03 00:00:00
+last_date__order_date,2025-02-28 00:00:00
+unique_values__customer_name,30
+top_value__customer_name,Anna Smith
+top_value_count__customer_name,1
+unique_values__country,9
+top_value__country,Germany
+top_value_count__country,12
+unique_values__category,3
+top_value__category,Electronics
+top_value_count__category,11
+unique_values__product,30
+top_value__product,Keyboard
+top_value_count__product,1
+unique_values__status,8
+top_value__status,completed
+top_value_count__status,23
+unique_values__payment_method,4
+top_value__payment_method,card
+top_value_count__payment_method,21
