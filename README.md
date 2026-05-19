@@ -40,5 +40,4 @@ csv-cleaner/
 │
 └── example_output/
     ├── cleaned_data.csv
-    ├── report.csv
-    └── charts/
+    └── report.csv
